@@ -1,20 +1,25 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Manuel López — Flutter, Dart, side projects" width="100%" />
+  <img src="assets/banner.png" alt="Manuel López — Software Architect & Full Stack" width="100%" />
 </p>
 
 <h1 align="center">Manuel López</h1>
 
 <p align="center">
+  <strong>Software Architect & Full Stack Developer</strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/iMacnucintosh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=13B9FD&center=true&vCenter=true&width=680&lines=Flutter+%26+Dart+developer;Apps+m%C3%B3viles%2C+web+y+herramientas+Steam;Clean+Architecture+%C2%B7+Riverpod+%C2%B7+side+projects" alt="Animación: Flutter y Dart developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=13B9FD&center=true&vCenter=true&width=720&lines=Software+Architect+%26+Full+Stack;Backend%2C+frontend%2C+datos+y+cloud;Dise%C3%B1o+sistemas+y+los+construyo+de+punta+a+punta" alt="Software Architect y Full Stack" />
   </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Architect-0A1628?style=for-the-badge&logo=diagramsdotnet&logoColor=13B9FD" alt="Architect" />
+  <img src="https://img.shields.io/badge/Full_Stack-0175C2?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Web-13B9FD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <a href="https://github.com/iMacnucintosh">
     <img src="https://img.shields.io/github/followers/iMacnucintosh?style=for-the-badge&logo=github&label=Follow&color=181717" alt="Seguir en GitHub" />
   </a>
@@ -26,9 +31,11 @@
 
 ## Sobre mí
 
-Desarrollo **apps Flutter** para móvil y web, con arquitectura limpia y estado predecible (Riverpod). Me gusta construir productos que se ven bien y se pueden mantener: bibliotecas personales, herramientas alrededor de Steam y juegos pequeños publicables.
+Soy **software architect y desarrollador full stack**: diseño la arquitectura y también la implemento, de la API a la UI y al despliegue. No me quedo en el front. Defino límites de servicio, modelos de datos, contratos, flujos y cómo se opera en cloud, y luego los bajo a código.
 
-Ahora mismo trabajo en **[steam-better-achievements](https://github.com/iMacnucintosh/steam-better-achievements)**, un plugin de [Millennium](https://steambrew.app/) para mejorar cómo se ven los logros en Steam.
+En el día a día trabajo en plataformas end-to-end (backend, front, identidad, integraciones y AWS). Aquí en GitHub dejo sobre todo **side projects** públicos; el trabajo de producto y arquitectura suele vivir en repos privados.
+
+Ahora, en abierto: **[steam-better-achievements](https://github.com/iMacnucintosh/steam-better-achievements)**, un plugin de [Millennium](https://steambrew.app/) para mejorar la UI de logros de Steam.
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="80%" />
@@ -37,17 +44,21 @@ Ahora mismo trabajo en **[steam-better-achievements](https://github.com/iMacnuci
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,django,html,css,js,git,github,linux,cloudflare,vscode&theme=dark" alt="Flutter, Dart, Python, Django, HTML, CSS, JS, Git, GitHub, Linux, Cloudflare, VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,java,mysql,aws,docker,linux,flutter,dart,js,html,css,git,github,cloudflare&theme=dark" alt="Python, FastAPI, Django, Java, MySQL, AWS, Docker, Linux, Flutter, Dart, JS, HTML, CSS, Git, GitHub, Cloudflare" />
 </p>
 
-**Día a día:** Flutter · Dart · Riverpod · GoRouter · Dio · Clean Architecture  
-**También:** Python · Django · Cloudflare Workers · GitHub Actions · GitHub Pages
+| Capa | Con qué |
+| --- | --- |
+| **Arquitectura** | Clean Architecture, diseño de servicios, contratos de API, flujos de negocio |
+| **Backend** | Python, FastAPI, Django, Java, SQLAlchemy, MySQL |
+| **Frontend** | Flutter / Dart, web (JS, HTML, CSS) |
+| **Cloud & ops** | AWS (CDK, S3, identidad), Docker, Cloudflare Workers, GitHub Actions |
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="80%" />
 </p>
 
-## Proyectos destacados
+## Side projects públicos
 
 <p align="center">
   <a href="https://github.com/iMacnucintosh/Booktion">
@@ -69,10 +80,10 @@ Ahora mismo trabajo en **[steam-better-achievements](https://github.com/iMacnuci
 
 | Proyecto | Qué es | Demo |
 | --- | --- | --- |
-| **[Booktion](https://github.com/iMacnucintosh/Booktion)** | Biblioteca personal conectada a Notion. CRUD, filtros, valoraciones y Clean Architecture. | — |
-| **[Steamfresh](https://github.com/iMacnucintosh/Steamfresh)** | Biblioteca de Steam (web + Android) con login OpenID, PWA y proxy en Cloudflare Workers. | [Abrir](https://imacnucintosh.github.io/Steamfresh/) |
-| **[TheRules](https://github.com/iMacnucintosh/TheRules)** | Party game en Flutter web: reglas aleatorias para grupos. | [Abrir](https://imacnucintosh.github.io/TheRules/) |
-| **[steam-better-achievements](https://github.com/iMacnucintosh/steam-better-achievements)** | Plugin de Millennium para mejorar la UI de logros de Steam. | En progreso |
+| **[Booktion](https://github.com/iMacnucintosh/Booktion)** | App full stack de biblioteca personal con Notion: API, dominio y UI (Clean Architecture). | — |
+| **[Steamfresh](https://github.com/iMacnucintosh/Steamfresh)** | Biblioteca Steam (web + Android): OpenID, PWA y proxy en Cloudflare Workers. | [Abrir](https://imacnucintosh.github.io/Steamfresh/) |
+| **[TheRules](https://github.com/iMacnucintosh/TheRules)** | Party game en Flutter web. | [Abrir](https://imacnucintosh.github.io/TheRules/) |
+| **[steam-better-achievements](https://github.com/iMacnucintosh/steam-better-achievements)** | Plugin de Millennium para la UI de logros de Steam. | En progreso |
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="80%" />
@@ -101,5 +112,5 @@ Ahora mismo trabajo en **[steam-better-achievements](https://github.com/iMacnuci
 </p>
 
 <p align="center">
-  <sub>Flutter · Dart · Steam tooling · side projects</sub>
+  <sub>Software Architect · Full Stack · Backend · Frontend · Cloud</sub>
 </p>
