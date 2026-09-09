@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Manuel López — Software Architect & Full Stack" width="100%" />
-</p>
-
 <h1 align="center">Manuel López</h1>
 
 <p align="center">
