@@ -2,29 +2,29 @@
 
 **Software Architect**
 
-## ✦ Sylphrena
+## ✦ Sylenara
 
-<a href="https://github.com/iMacnucintosh/sylphrena-shell"><img src="assets/sylphrena.webp" alt="Sylphrena desktop: Things, Seeker and kitty" /></a>
+<a href="https://github.com/iMacnucintosh/sylenara-shell"><img src="assets/sylenara.webp" alt="Sylenara desktop: Things, Seeker and kitty" /></a>
 
 <p>
-  <img src="assets/sylphrena-sand.webp" width="49%" alt="Sylphrena with a warm dark theme taken from a dune wallpaper" />
-  <img src="assets/sylphrena-dusk.webp" width="49%" alt="Sylphrena with a purple dark theme taken from a mountain wallpaper" />
+  <img src="assets/sylenara-sand.webp" width="49%" alt="Sylenara with a warm dark theme taken from a dune wallpaper" />
+  <img src="assets/sylenara-dusk.webp" width="49%" alt="Sylenara with a purple dark theme taken from a mountain wallpaper" />
 </p>
 
 <sub>Every colour comes from the wallpaper: the shell, its apps, GTK/Qt apps and the terminal change together.</sub>
 
-A complete Material You desktop for Arch Linux + Hyprland: shell, settings, login screen,
+**Sylenara** (*si-le-NA-ra*) is a complete Material You desktop for Arch Linux + Hyprland: shell, settings, login screen,
 installer, extensions and its own apps, all sharing one visual language and one theme.
 
 | Project | What it is |
 | --- | --- |
-| **[sylphrena-shell](https://github.com/iMacnucintosh/sylphrena-shell)** | The shell: activities, panels, settings and login screen (Quickshell · QML · C++) |
+| **[sylenara-shell](https://github.com/iMacnucintosh/sylenara-shell)** | The shell: activities, panels, settings and login screen (Quickshell · QML · C++) |
 | **[things](https://github.com/iMacnucintosh/things)** | Package manager: pacman, AUR and Flatpak in a single list (Qt 6 · C++20) |
 | **[seeker](https://github.com/iMacnucintosh/seeker)** | File manager (Qt 6 · QML) |
 | **[veo](https://github.com/iMacnucintosh/veo)** | Minimal video player (libmpv · Qt Quick) |
-| **[sylphrena-cli](https://github.com/iMacnucintosh/sylphrena-cli)** | `sylph`, the control CLI (Python) |
-| **[sylphrena-hub](https://github.com/iMacnucintosh/sylphrena-hub)** | Extensions and widgets |
-| **[sylphrena-packages](https://github.com/iMacnucintosh/sylphrena-packages)** | Signed pacman repository, built by CI |
+| **[sylenara-cli](https://github.com/iMacnucintosh/sylenara-cli)** | `syl`, the control CLI (Python) |
+| **[sylenara-hub](https://github.com/iMacnucintosh/sylenara-hub)** | Extensions and widgets |
+| **[sylenara-packages](https://github.com/iMacnucintosh/sylenara-packages)** | Signed pacman repository, built by CI |
 
 ## Other projects
 
