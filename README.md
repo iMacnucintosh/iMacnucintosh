@@ -6,6 +6,13 @@
 
 <a href="https://github.com/iMacnucintosh/sylphrena-shell"><img src="assets/sylphrena.webp" alt="Sylphrena desktop: Things, Seeker and kitty" /></a>
 
+<p>
+  <img src="assets/sylphrena-sand.webp" width="49%" alt="Sylphrena with a warm dark theme taken from a dune wallpaper" />
+  <img src="assets/sylphrena-dusk.webp" width="49%" alt="Sylphrena with a purple dark theme taken from a mountain wallpaper" />
+</p>
+
+<sub>Every colour comes from the wallpaper: the shell, its apps, GTK/Qt apps and the terminal change together.</sub>
+
 A complete Material You desktop for Arch Linux + Hyprland: shell, settings, login screen,
 installer, extensions and its own apps, all sharing one visual language and one theme.
 
