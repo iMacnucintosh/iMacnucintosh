@@ -4,6 +4,8 @@
 
 ## ✦ Sylphrena
 
+<a href="https://github.com/iMacnucintosh/sylphrena-shell"><img src="assets/sylphrena.webp" alt="Sylphrena desktop: Things, Seeker and kitty" /></a>
+
 A complete Material You desktop for Arch Linux + Hyprland: shell, settings, login screen,
 installer, extensions and its own apps, all sharing one visual language and one theme.
 
