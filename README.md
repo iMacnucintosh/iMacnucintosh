@@ -1,10 +1,29 @@
 # Manuel López
 
-**Software Architect & Full Stack Developer**
+**Software Architect**
 
-Arquitecto de software y desarrollador full stack. Diseño e implemento plataformas de extremo a extremo: servicios, datos, cloud y clientes. En el escritorio, Arch Linux + Hyprland.
+## ✦ Sylphrena
 
-El trabajo de producto vive sobre todo en repos privados; aquí publico una selección de proyectos personales.
+A complete Material You desktop for Arch Linux + Hyprland: shell, settings, login screen,
+installer, extensions and its own apps, all sharing one visual language and one theme.
+
+| Project | What it is |
+| --- | --- |
+| **[sylphrena-shell](https://github.com/iMacnucintosh/sylphrena-shell)** | The shell: activities, panels, settings and login screen (Quickshell · QML · C++) |
+| **[things](https://github.com/iMacnucintosh/things)** | Package manager: pacman, AUR and Flatpak in a single list (Qt 6 · C++20) |
+| **[seeker](https://github.com/iMacnucintosh/seeker)** | File manager (Qt 6 · QML) |
+| **[veo](https://github.com/iMacnucintosh/veo)** | Minimal video player (libmpv · Qt Quick) |
+| **[sylphrena-cli](https://github.com/iMacnucintosh/sylphrena-cli)** | `sylph`, the control CLI (Python) |
+| **[sylphrena-hub](https://github.com/iMacnucintosh/sylphrena-hub)** | Extensions and widgets |
+| **[sylphrena-packages](https://github.com/iMacnucintosh/sylphrena-packages)** | Signed pacman repository, built by CI |
+
+## Other projects
+
+- **[synapsex](https://github.com/iMacnucintosh/synapsex)**: Razer Synapse for Linux (Rust)
+- **[Steamfresh](https://github.com/iMacnucintosh/Steamfresh)**: your Steam library on the web and Android (Flutter · Cloudflare Workers) · [demo](https://imacnucintosh.github.io/Steamfresh/)
+- **[steam-better-achievements](https://github.com/iMacnucintosh/steam-better-achievements)**: a nicer Steam achievements view (Millennium plugin)
+- **[TheRules](https://github.com/iMacnucintosh/TheRules)**: a party board game (Flutter web) · [demo](https://imacnucintosh.github.io/TheRules/)
+- **[Booktion](https://github.com/iMacnucintosh/Booktion)**: personal library backed by Notion (Flutter)
 
 ## Stack
 
@@ -13,41 +32,18 @@ El trabajo de producto vive sobre todo en repos privados; aquí publico una sele
   <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /></a>
   <a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" /></a>
   <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
+  <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" /></a>
+  <a href="https://www.swift.org/" title="Swift"><img src="https://skillicons.dev/icons?i=swift&theme=dark" alt="Swift" /></a>
+  <a href="https://flutter.dev/" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" /></a>
+  <a href="https://dart.dev/" title="Dart"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" /></a>
+  <a href="https://www.qt.io/" title="Qt / QML"><img src="https://skillicons.dev/icons?i=qt&theme=dark" alt="Qt / QML" /></a>
+  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a>
+  <a href="https://www.rust-lang.org/" title="Rust"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
   <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
   <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /></a>
   <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
+  <a href="https://archlinux.org/" title="Arch Linux"><img src="https://skillicons.dev/icons?i=arch&theme=dark" alt="Arch Linux" /></a>
   <a href="https://www.kernel.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
-  <a href="https://flutter.dev/" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" /></a>
-  <a href="https://dart.dev/" title="Dart"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
   <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
 </p>
-
-| Área | Tecnologías |
-| --- | --- |
-| **Arquitectura** | Servicios, contratos de API, flujos, Clean Architecture |
-| **Backend** | Python, FastAPI, Django, Java, SQLAlchemy, MySQL |
-| **Frontend** | Flutter / Dart, JavaScript, Qt / QML |
-| **Cloud / Ops** | AWS, Docker, Cloudflare Workers, GitHub Actions, Linux |
-
-## Ahora
-
-| Proyecto | Descripción |
-| --- | --- |
-| **[sylphrena-shell](https://github.com/iMacnucintosh/sylphrena-shell)** | Shell Material You para Hyprland (Quickshell / QML) |
-| **[seeker](https://github.com/iMacnucintosh/seeker)** | Explorador de archivos Material You (Qt 6 / QML), pensado para Sylphrena |
-| **[sylphrena-cli](https://github.com/iMacnucintosh/sylphrena-cli)** | CLI de control de Sylphrena |
-| **[synapsex](https://github.com/iMacnucintosh/synapsex)** | Razer Synapse en Linux (Basilisk V4 Pro): DPI, lighting, remaps, perfiles |
-
-## Otros proyectos
-
-| Proyecto | Descripción | Demo |
-| --- | --- | --- |
-| **[Steamfresh](https://github.com/iMacnucintosh/Steamfresh)** | Biblioteca Steam (web y Android): OpenID, PWA y proxy en Cloudflare Workers | [Demo](https://imacnucintosh.github.io/Steamfresh/) |
-| **[steam-better-achievements](https://github.com/iMacnucintosh/steam-better-achievements)** | Plugin Millennium para la interfaz de logros de Steam | — |
-| **[Booktion](https://github.com/iMacnucintosh/Booktion)** | Biblioteca personal integrada con Notion | — |
-| **[TheRules](https://github.com/iMacnucintosh/TheRules)** | Juego de mesa digital para grupos (Flutter web) | [Demo](https://imacnucintosh.github.io/TheRules/) |
-
-## Contacto
-
-[GitHub](https://github.com/iMacnucintosh) · [Email](mailto:manuellopezmallorquin@gmail.com)
